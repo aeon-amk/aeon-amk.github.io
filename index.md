@@ -10,3 +10,5 @@ Sherlock Holmes is a fictional detective of the late 19th and early 20th centuri
 * socio-pathic
 
 > Elementary, my dear Watson.
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/Statue_of_Sherlock_Holmes_in_Edinburgh.jpg"/>

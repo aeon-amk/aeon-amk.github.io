@@ -8,3 +8,5 @@ Sherlock Holmes is a fictional detective of the late 19th and early 20th centuri
 * Deduction
 * addicted
 * socio-pathic
+
+> Elementary, my dear Watson.
